@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+  background-image: linear-gradient(#dac0ff, #f3eaff, #690cb0, white);
+  font-family: Roboto;
+}
+
+.heading {
+  color: #690cb0;
+  font-size: 42px;
+  font-weight: 600;
+  padding: 10px;
+}
+
+.description {
+  color: #3e4c59;
+}
+
+.image {
+  width: 55px;
+  height: 40px;
+}
+
+.seconds {
+  color: #3e4c59;
+  font-weight: 500;
+  font-size: 14px;
+}
+
+#timer {
+  color: #3e4c59;
+  font-weight: 500;
+  font-size: 35px;
+}
+
+.text-container {
+  background-color: #f3eaff;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 13px;
+  border-color: #690cb0;
+  border-style: solid;
+  border-width: 1px;
+}
+
+#result {
+  font-size: 20px;
+  color: #323f4b;
+  font-weight: 600;
+}
+
+.submit-btn {
+  background-color: #690cb0;
+  color: white;
+  height: 40px;
+  width: 80px;
+  border-radius: 10px;
+  border-style: none;
+  font-weight: 600;
+}
+
+.reset-btn {
+  background-color: white;
+  color: black;
+  height: 40px;
+  width: 80px;
+  border-radius: 10px;
+  font-weight: 600;
+  border-style: none;
+}
